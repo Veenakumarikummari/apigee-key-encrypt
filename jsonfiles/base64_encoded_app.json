@@ -1,1 +1,27 @@
-
+{
+  "appId": "c2e836d1-7eda-4afc-8022-3ae5135e0cf6",
+  "callbackUrl": "http://weatherapp.com",
+  "createdAt": "1693921513325",
+  "credentials": [
+    {
+      "expiresAt": "1694089025847",
+      "issuedAt": "1694088845847",
+      "status": "approved",
+      "consumerKey": "MTUzNg==",
+      "consumerSecret": "NzY4OQ=="
+    },
+    {
+      "apiProducts": "",
+      "consumerKey": "GnXYKdPNxnAGJOSeR32NV1wdXBdCxNOj9F2LHn2plu6Mqbg6",
+      "consumerSecret": "6Wr30X2JASQewXsTA2hsVGWIFFJAps33hobKEqkeU87Fh4MXB4hqkmJXi5KGb82x",
+      "expiresAt": "-1",
+      "issuedAt": "1693921520874",
+      "status": "approved"
+    }
+  ],
+  "developerId": "1f1d0ec0-0550-4c17-b59f-27e17f3f3e37",
+  "lastModifiedAt": "1693997843072",
+  "name": "app",
+  "status": "approved",
+  "appFamily": "default"
+}
